@@ -1,11 +1,11 @@
-![cover](./smart-contract/images/xtelptimg.jpeg)
+![cover](./frontend/asset/service.png)
  
 <p align="center">
-<a target="_blank" href="https://docs.soliditylang.org/"><img src="https://camo.githubusercontent.com/7f5dae68cf75e9fb9eb72a0209fffc19ae14175eb0073f7659ffee06b9656ac4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6c69646974792d2532333336333633362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d736f6c6964697479266c6f676f436f6c6f723d7768697465"/></a> <a target="_blank" href="https://docs.chain.link/"><img src="https://camo.githubusercontent.com/df9365ae11c1678020c68db521a0a98522be0c065151e720e9ec4cf7624def50/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861696e6c696e6b2d3337354244323f7374796c653d666f722d7468652d6261646765266c6f676f3d436861696e6c696e6b266c6f676f436f6c6f723d7768697465" /></a><a target="_blank" href="https://nextjs.org/docs/getting-started"><img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000"/></a?
+<a target="_blank" href="https://nextjs.org/docs/getting-started"><img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000"/></a>
 
 </p>
 <p align="center">
-  This repository contains the <strong>Smart contract</strong> source code written <b>Solidity</b>, The <strong>Frontend</strong> written in <b>NextJS</b> a Javascript Framework.
+  This repository contains the <strong>Frontend</strong> source code and files written with <b>NextJS</b> a Javascript Framework that enables <b>React-based</b> web-applications with <b>Server-Side Rendering</b> and genearting <b>Static Websites</b>. The 
   Xtelpt is about Getting mental health care anywhere at anytime at 100% confidentiality.
 </p>
 
