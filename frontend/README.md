@@ -12,8 +12,9 @@
 <p align="center">
  <a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
 <a href="#frameworks">Frameworks</a> &nbsp;&bull;&nbsp;
-<a href="#issue">Issues?</a>&nbsp;&bull;&nbsp;
-<a href="#documentation">Lesson and Remarks</a> &nbsp;&bull;&nbsp;
+ <a href="#runing">Running</a> &nbsp;&bull;&nbsp;
+<a href="#issue">Issues Encountered</a>&nbsp;&bull;&nbsp;
+<a href="#dlessons">Lesson and Remarks</a> &nbsp;&bull;&nbsp;
 </p>
 
 ## Installation 
@@ -59,7 +60,7 @@ This <b>Project</b> was made possible with ```TailwindCSS```, ```Huddle01```, ``
 - Some of the packages we felt were ```NextJS``` fit for the project were depreciated versions so we had to stress a little in finding other best packages
 - Creating a custom room for different peers - With the help of the ```Huddle01``` docs we were able to overcome this challenge by creating a separate roomId prop for best usage.
 
-## Lesson and Remarks 
+## Lessons 
 - Custom hooks in ```NextJS```.
 - Keeping track of States and manipulating them to get Best UI flow.
 - Creating a Dynamic url in ```NextJs```.
