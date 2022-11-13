@@ -13,8 +13,8 @@
  <a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
 <a href="#frameworks">Frameworks</a> &nbsp;&bull;&nbsp;
  <a href="#runing">Running</a> &nbsp;&bull;&nbsp;
-<a href="#issue">Issues Encountered</a>&nbsp;&bull;&nbsp;
-<a href="#dlessons">Lesson and Remarks</a> &nbsp;&bull;&nbsp;
+<a href="#issue">Issues </a>&nbsp;&bull;&nbsp;
+<a href="#dlessons">Lessons </a> &nbsp;&bull;&nbsp;
 </p>
 
 ## Installation 
