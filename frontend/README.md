@@ -1,4 +1,4 @@
-![cover](./frontend/asset/service.png)
+![cover](./assets/service.png)
  
 <p align="center">
 <a target="_blank" href="https://nextjs.org/docs/getting-started"><img src="https://img.shields.io/badge/NextJS-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000"/></a>
